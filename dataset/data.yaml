@@ -1,0 +1,18 @@
+path: C:/Users/goffa/Documents/Educate/1_68/Eco/Ajfern/YV5/dataset
+train: train.txt
+val: val.txt
+names:
+  0: eggs
+  1: dessert
+  2: drink
+  3: spoonandfork
+  4: protein
+  5: vegetable
+  6: carb
+  7: eggs_bb
+  8: dessert_bb
+  9: drink_bb
+  10: spoonandfork_bb
+  11: protein_bb
+  12: vegetable_bb
+  13: carb_bb
