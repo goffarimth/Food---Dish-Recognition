@@ -202,3 +202,10 @@ python yolov5/segment/predict.py \
 - [x] บันทึกและแสดงกราฟ Loss, Learning Rate และ mAP@0.5 ผ่าน TensorBoard / `results.png`
 - [x] สรุปค่า mAP@0.5 และกราฟ Precision-Recall Curve (Box & Mask)
 - [x] บันทึกผลลัพธ์ Overlay (Bounding Boxes + Segmentation Masks) บนชุดข้อมูลทดสอบ
+---
+## 📌 ผู้พัฒนา (Author)
+
+- **Goffari M.** - [@goffarimth](https://github.com/goffarimth)
+
+---
+
